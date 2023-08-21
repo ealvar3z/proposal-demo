@@ -1,0 +1,6 @@
+title: Taheri Arts
+logo_image: images/logo.svg # You can add own logo. For example 'images/logo.svg'.
+description: This is a portfolio site template for Hugo. It's fast and SEO optimized
+social_media_share_image: /images/01.jpg
+disqus_identifier:
+google_analytics:
