@@ -1,6 +1,8 @@
 ---
 name: E. Alvarez
-position: U.S Marine
+position: Starving writer, voracious reader and Unix terminal junkie
 image: '/images/client-1.jpg'
-blurb: Semper Invictus and Semper Fidelis! 
+blurb: |
+  Two of my favorite characters, from Monty Python: The Holy Grail and the Three Amigos.
+  Semper Invictus and Semper Fidelis! 
 ---
