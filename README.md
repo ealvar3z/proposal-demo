@@ -2,7 +2,8 @@
 
 Demo proposal site for a potential customer.
 
-Sits is hosted at: [![Deploy to CloudCannon](https://buttons.cloudcannon.com/deploy.svg)](https://app.cloudcannon.com/register#sites/connect/github/CloudCannon/vonge-hugo-bookshop-template)
+Site is hosted at:  
+[![Deploy to CloudCannon](https://buttons.cloudcannon.com/deploy.svg)](https://app.cloudcannon.com/register#sites/connect/github/CloudCannon/vonge-hugo-bookshop-template)
 ## Features
 
 * Component library for website building
