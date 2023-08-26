@@ -1,15 +1,8 @@
-# Vonge
+# Demo Proposal Static Site
 
-Vonge is a Personal portfolio/blog site template for Hugo. Browse through a [live demo](https://jazzed-kale.cloudvent.net/).
-Increase the web presence of your brand with this configurable theme.
+Demo proposal site for a potential customer.
 
-
-Vonge was made by [CloudCannon](http://cloudcannon.com/), the JAMStack Cloud CMS.
-The component library is built and maintained for use with [Bookshop](https://github.com/cloudcannon/bookshop/)
-
-Find more templates, themes and step-by-step Hugo tutorials at [CloudCannon Tutorials](http://cloudcannon.com/tutorials/).
-
-[![Deploy to CloudCannon](https://buttons.cloudcannon.com/deploy.svg)](https://app.cloudcannon.com/register#sites/connect/github/CloudCannon/vonge-hugo-bookshop-template)
+Sits is hosted at: [![Deploy to CloudCannon](https://buttons.cloudcannon.com/deploy.svg)](https://app.cloudcannon.com/register#sites/connect/github/CloudCannon/vonge-hugo-bookshop-template)
 ## Features
 
 * Component library for website building
